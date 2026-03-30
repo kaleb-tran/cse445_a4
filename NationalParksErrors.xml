@@ -72,7 +72,6 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
   <NationalPark Rating="4.8">
     <Name>Capitol Reef</Name>
@@ -133,3 +132,4 @@
       <Zip>81328</Zip>
     </Address>
   </NationalPark>
+</NationalParks>
